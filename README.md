@@ -12,7 +12,7 @@
  <h2>Setup</h2>
  <h6> React.js PWA </h6>
  
- -Klonen Sie dieses Repo auf Ihren Desktop
+ - Klonen Sie dieses Repo auf Ihren Desktop
 
 - Wechseln Sie in das Projekt Verzeichnis und führen Sie npm install aus, um die Abhängigkeiten zu installieren
 
