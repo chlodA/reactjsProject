@@ -1,0 +1,28 @@
+{
+  "short_name": "PWA React App",
+  "name": "PWA React Application",
+  "icons": [
+
+    {
+      "src": "Logo16",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "gcm_sender_id": "103953800507",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
