@@ -4,7 +4,7 @@ The main function of the applications is to save orders along with all the neces
 
 <h2>Screenshots</h2>
 <p align="center">
-<img src="images/Login.png" width="100" height="100"  alt="login"/>
+<img src="images/Login.png" alt="login"/>
 </p>
 
 
