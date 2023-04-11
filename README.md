@@ -4,13 +4,14 @@ The main function of the applications is to save orders along with all the neces
 
 <h2>Screenshots</h2>
 <p align="left">
-<img src="images/PWA_on_Android.png" alt="PWA_on_Android"/>
+<img src="images/Lighthouse.png" alt="Lighthouse"/>
 </p>
 <p align="left">
-<img src="images/Login.png"  width="200" height="300" alt="login"/>
+<img src="images/PWA_on_Android.png" alt="PWA_on_Android"/>
 </p>
-<p align="center">
-<img src="images/Settings.png"  width="200" height="300" alt="login"/>
+<p float="left">
+<img src="images/Login.png"  width="200" height="400" alt="login"/>
+<img src="images/Settings.png"  width="200" height="400" alt="login"/>
 </p>
 
 
