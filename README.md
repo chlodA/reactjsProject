@@ -11,6 +11,7 @@ The main function of the applications is to save orders along with all the neces
 - Development environment - Webstorm
 
  <h2>Setup/Installation</h2>
+ <h4> Webbrowser </h4>
  
  - Clone this repo to your desktop
  
@@ -18,6 +19,6 @@ The main function of the applications is to save orders along with all the neces
 
 - Once the dependencies are installed you can run `npm run-script build` and next `serve -s build` to start the application (or npm start - app starts automatically http://localhost:3000/).
 
-- Open the web browser on the emulator and type the following localhost addrese in the search bar: 10.0.2.2:5000
+
 
 
