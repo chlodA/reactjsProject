@@ -15,6 +15,9 @@ The main function of the applications is to save orders along with all the neces
 <img src="images/Orders.png"  width="200" height="400" alt="Orders"/>
 <img src="images/Settings.png"  width="200" height="400" alt="Settings"/>
 </p>
+<p align="left">
+<img src="images/Add_Picture.png" alt="Add_Picture"/>
+</p>
 
 
  <h2>Technologies</h2>
