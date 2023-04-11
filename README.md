@@ -10,8 +10,10 @@ The main function of the applications is to save orders along with all the neces
 <img src="images/PWA_on_Android.png" alt="PWA_on_Android"/>
 </p>
 <p float="left">
-<img src="images/Login.png"  width="200" height="400" alt="login"/>
-<img src="images/Settings.png"  width="200" height="400" alt="login"/>
+<img src="images/Login.png"  width="200" height="400" alt="Login"/>
+<img src="images/Sign_Uppng.png"  width="200" height="400" alt="Sign Uppng"/>
+<img src="images/Orders.png"  width="200" height="400" alt="Orders"/>
+<img src="images/Settings.png"  width="200" height="400" alt="Settings"/>
 </p>
 
 
