@@ -3,6 +3,10 @@ When you first enter the page, you going to see sing in / sign up form. I used F
 The main function of the applications is to save orders along with all the necessary information and the ability to give them assign one of the following three statuses: ”Ordered”, ”Package arrived at address”, ”Received”.
 
 <h2>Screenshots</h2>
+<p align="center">
+<img src="images/Login.png" width="100" height="100"  alt="login"/>
+</p>
+
 
  <h2>Technologies</h2>
  
