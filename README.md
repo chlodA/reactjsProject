@@ -1,5 +1,5 @@
 <h1>Progressive web application</h1>
-When you first enter the page, you going to see sing in / sign up form. I used Firebase OAuth for authentication. 
+When you first enter the page, you going to see sing in / sign up form. I used Firebase for authentication and for data storing. 
 The main function of the applications is to save orders along with all the necessary information and the ability to give them assign one of the following three statuses: ”Ordered”, ”Package arrived at address”, ”Received”.
 
 <h2>Screenshots</h2>
