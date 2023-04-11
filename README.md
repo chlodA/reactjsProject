@@ -14,7 +14,7 @@ The main function of the applications is to save orders along with all the neces
  
  - Clone this repo to your desktop
  
- - The project uses node and npm. Having them installed, type into the terminal: npm i to install the dependencies
+ - The project uses `node` and `npm`. Having them installed, type into the terminal: `npm i` to install the dependencies
 
 - Once the dependencies are installed you can run `npm run-script build` and next `serve -s build` to start the application (or npm start - app starts automatically http://localhost:3000/).
 
