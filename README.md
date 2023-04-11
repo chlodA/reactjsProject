@@ -4,7 +4,7 @@ The main function of the applications is to save orders along with all the neces
 
 <h2>Screenshots</h2>
 <p align="left">
-<img src="images/PWA_on_Android.png" width="200" height="200" alt="PWA_on_Android"/>
+<img src="images/PWA_on_Android.png" alt="PWA_on_Android"/>
 </p>
 <p align="left">
 <img src="images/Login.png"  width="200" height="300" alt="login"/>
