@@ -2,13 +2,20 @@
 When you first enter the page, you going to see sing in / sign up form. I used Firebase OAuth for authentication. 
 The main function of the applications is to save orders along with all the necessary information and the ability to give them assign one of the following three statuses: ”Ordered”, ”Package arrived at address”, ”Received”.
 
+<h2>Screenshots</h2>
+
  <h2>Technologies</h2>
  
 - Node.js
 - Java Script
 - Firebase (Cloud Firestore)
 - React.js
-- Development environment - Webstorm
+- React Router Library (to navigate between views and provide each of them with a separate link)
+- React Lazyload (to increase the application loading speed)
+- Development environment - Webstorm JetBrains
+- Material UI
+- Service Worker (Caching)
+- IndexDB (to save data in the browser and to update automatically)
 
  <h2>Setup/Installation</h2>
  <h4> Webbrowser </h4>
