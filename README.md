@@ -1,23 +1,23 @@
-<h4>Author: Agnieszka Chlod</h4>
-<h4>Date: 11.2021</h4>
+<h4>Progressive web application</h4>
+When you first enter the page, you going to see sing in / sign up form. I used Firebase OAuth for authentication. 
+The main function of the applications is to save orders along with all the necessary information and the ability to give them assign one of the following three statuses: ”Ordered”, ”Package arrived at address”, ”Received”.
 
- <h2>Technologien</h2>
+ <h2>Technologies</h2>
  
 - Node.js
 - Java Script
 - Firebase (Cloud Firestore)
 - React.js
-- Entwicklungsumgebung - Webstorm
+- Development environment - Webstorm
 
- <h2>Setup</h2>
- <h6> React.js PWA </h6>
+ <h2>Setup/Installation</h2>
  
- - Klonen Sie dieses Repo auf Ihren Desktop
+ - Clone this repo to your desktop
+ 
+ - The project uses node and npm. Having them installed, type into the terminal: npm i to install the dependencies
 
-- Wechseln Sie in das Projekt Verzeichnis und führen Sie npm install aus, um die Abhängigkeiten zu installieren
+- Once the dependencies are installed you can run `npm run-script build` and next `serve -s build` to start the application (or npm start - app starts automatically http://localhost:3000/).
 
-- Sobald die Abhängigkeiten installiert sind,  können Sie `npm run-script build` ausführen und als nächste `serve -s build`, um die Applikation zu starten (bzw. npm start - App startet automatisch http://localhost:3000/). 
-
-- Auf dem Emulator Webbrowser öffnen und in der Suchleiste folgende localhost addrese eintippen: 10.0.2.2:5000
+- Open the web browser on the emulator and type the following localhost addrese in the search bar: 10.0.2.2:5000
 
 
