@@ -53,13 +53,11 @@ function AddOrder() {
 
     const classes = useStyles();
 
-    const entityRef = firebase.firestore().collection("orders")/*.doc(currentUser.uid);*/
+    const entityRef = firebase.firestore().collection("orders")
 
 
     useEffect(() => {
         entityRef
-            /*.where("authorID", "==", currentUser)
-            .orderBy('createdAt', 'desc')*/
             .onSnapshot(
                 querySnapshot => {
                     const newOrder = []
@@ -123,7 +121,6 @@ function AddOrder() {
         }
     }
 
-
     return (
 
         <div>
@@ -144,7 +141,6 @@ function AddOrder() {
                             </Grid>
                         </Box>
                         <TextField
-                            //inputRef={shopnameRef}
                             value={shopname}
                             onChange={e => setShopName(e.target.value)}
                             variant="outlined"
@@ -158,7 +154,6 @@ function AddOrder() {
                             autoFocus
                         />
                         <TextField
-                            //inputRef={noteRef}
                             onChange={e => setNote(e.target.value)}
                             value={note}
                             variant="outlined"

@@ -279,35 +279,4 @@ function OrderReceived() {
 
 }
 
-
-{/*     <div>lalas</div>
-
-            {
-                items && items.map(item=>{
-                    if(item && item.status==='Pending')
-                        return <><p className="item"
-                                    key={item.id}>{item.title}
-                                    <button
-                                        className={classes.mark_complete}
-                                        key={item.id}
-                                        onClick={()=>{updateStatus(item.id,'Completed')}}
-                                    >
-                                        Mark Complete
-                                    </button></p></>
-                })
-            }*/
-}
-
-/*           <Box
-
-               width="100%"
-               position= "fixed"
-               bottom= "0"
-           >
-               <BottomNav/>
-           </Box>
-       </div>
-   )
-}*/
-
 export default OrderReceived
